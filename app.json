@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "BatteryMonitorApp",
+    "slug": "BatteryMonitorApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
